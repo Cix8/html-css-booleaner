@@ -28,6 +28,18 @@ h4 span {
     color: #41b6e9;
 }
 
+.margin-b {
+    margin-bottom: 20px;
+}
+
 .grey {
     color: #808080
+}
+
+.yellow-backg {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 40px;
 }
