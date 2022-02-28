@@ -19,3 +19,15 @@ header {
     bottom: 10px;
     left: -100px;
 }
+
+main {
+    padding-top: 20px;
+}
+
+h4 span {
+    color: #41b6e9;
+}
+
+.grey {
+    color: #808080
+}
